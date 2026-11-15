@@ -45,14 +45,3 @@
 Get the latest installer for your operating system from our public releases repository:
 
 👉 **[Download dubbr. Releases](https://github.com/RybsonBybson/dubbr-releases/releases)**
-
----
-
-## 💻 Running for Development
-
-If you want to run or contribute to the source code locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/RybsonBybson/dubbr.git](https://github.com/RybsonBybson/dubbr.git)
-   cd dubbr
